@@ -1,0 +1,17 @@
+program example52;
+var n;
+procedure prime(n,x,a,b);
+var m;
+var x,y,z;
+begin
+	m := x div 2
+end;
+
+procedure even(x);
+var temp;
+var isEven;
+begin
+	isEven := 0;
+	temp := n div x
+end.
+

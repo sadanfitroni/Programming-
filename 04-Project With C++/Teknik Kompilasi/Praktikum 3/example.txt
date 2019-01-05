@@ -1,0 +1,7 @@
+Program example;
+begin
+	begin
+		4 + 5;
+		7 * 4
+	end
+end.

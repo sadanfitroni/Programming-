@@ -1,0 +1,21 @@
+				 //****======================***==================****\\
+				|||		DATA PEMENANG GAME ULAR TANGGA		|||
+			 	\\****=====================*****=================****//
+ 			 	**===============================================**
+ 			 	|	Nama Pemain	|Tanggal Main|		Waktu	|	
+ 				 **===============================================**
+				  ==================================================
+					Sadan Fitroni	10 Desember 1997	10.19  WIB 
+					Sadan Fitroni	11 Desember 1997	10.12 WIB
+					Ahmad Sufyan	11 Oktober     2016	10.15 WIB	
+					Teti Barokah 	18 Januari 2016	04.37 WIB
+					Hanafiah AD	10 Januari 2015	11.00 WIB
+					Ahmad Alkahfi	18 Mei 2016	17.00 WIB
+					Ahmad Nawawi	10 Juni 2016	10.00 WIB		
+					Sadan Fitroni	11 Desember 1997	10.11 WIB
+					Sadan Fitroni	11 Desember 1997	10.12 WIB
+					Ahmad Dahlan	11 Agustus 2015	11.25 WIB
+							`
+							
+							
+	Sadan	12		56

@@ -1,0 +1,11 @@
+Program example;
+	begin
+		create procedure;
+		int n;
+		char nama;
+
+		if(a <> 0)
+			a = 100;
+		end if;
+,.>=:=
+end.
